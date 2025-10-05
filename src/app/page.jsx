@@ -9,7 +9,7 @@ export default function Home() {
       <section id="memories" className="mt-6">
         <div className="card-paper p-6 rounded-2xl">
           <h3 className="text-lg font-semibold">Sekilas Tentang Kita</h3>
-          <p className="mt-2 text-gray-600">Terima kasih sudah menjadi bagian dari hidupku. Scroll untuk melihat beberapa kenangan.</p>
+          <p className="mt-2 text-gray-600">Terima kasih sudah menjadi bagian dari hidupku. </p>
         </div>
       </section>
 

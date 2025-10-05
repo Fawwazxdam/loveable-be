@@ -5,12 +5,12 @@ export default function Layout({ children }) {
     <div className="min-h-screen flex flex-col items-center px-6 py-8">
       <header className="w-full max-w-3xl mb-6">
         <nav className="flex items-center justify-between">
-          <div className="text-xl font-semibold">❤️ Untukmu</div>
+          <div className="text-xl font-semibold">❤️ Untuk Bebe</div>
           <div className="space-x-3 text-sm">
             <Link href="/">Home</Link>
             <Link href="/memories">Memories</Link>
             <Link href="/apology">Surat</Link>
-            <Link href="/Surprise">Surprise</Link>
+            <Link href="/birthday">Surprise</Link>
           </div>
         </nav>
       </header>
